@@ -41,6 +41,7 @@
 	@import "../../common/scss/mixins.scss";
 	.star {
 		font-size: 0;
+		text-align: center;
 		.star-item {
 			display: inline-block;
 			background-repeat: no-repeat;
